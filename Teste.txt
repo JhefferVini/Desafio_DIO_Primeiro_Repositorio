@@ -1,0 +1,1 @@
+Arquivo criado somente para testar os comandos do git.
